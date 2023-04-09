@@ -15,7 +15,7 @@
    +  Đây là trò chơi thử thách khả năng phản xạ và khả năng quan sát của người chơi, các vật thể sẽ liên tục xuất hiện từ bên ngoài màn hình và nhiệm vụ của chúng ta là sử dụng các phím ASDW hoặc lên xuống sang trái sang phải để điều khiển phi thuyền tránh né các vật thể giúp con tàu an toàn. Cùng với đó trong lúc chơi, người chơi có thể tận hưởng bài nhạc lofi để giảm căng thẳng :3
    + Các ý tưởng chính: game này được chính người làm nghĩ ra mà không tham khảo ý tưởng từ game khác với việc load texture và load music 
 
-    <img width="1196" alt="PriviewGame" src="https://user-images.githubusercontent.com/130251152/230781521-51d358b8-5875-4185-9a48-6c7e92cc1b21.png">
+    https://github.com/Centinu/Game/issues/1#issuecomment-1501153388
 
 ## **4. Các kỹ thuật lập trình được sử dụng trong chương trình:**
    + Thư viện SDL2
